@@ -31,12 +31,12 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/a1-visual-designs.xd",
+                "href": "./assignments/assignment1/documents/BASED. Bieke Desnoeck.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/96c952a3-ce91-4f1d-5943-f443c238fac5-e0f8/",
+                "href": "https://xd.adobe.com/view/c82ea968-ed61-4970-610d-fad4bdcfddfa-be1f/",
                 "target": "_blank"
             }
         ]
@@ -57,12 +57,12 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/a2-visual-designs.xd",
+                "href": "./assignments/assignment2/documents/Webshop Sneaky Bieke Desnoeck.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/7eda8a98-040a-4af8-5c5c-05ed82dff921-08eb/",
                 "target": "_blank"
             }
         ]
